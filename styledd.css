@@ -1,0 +1,19 @@
+p.hidden{
+    border-style: hidden;
+    border-radius: 3px;
+    padding: 109px;
+    font-size: 150%;
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("97.jpg");
+height: 81%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+p{
+    color: rgb(255, 255, 255);
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+    padding-right: 10%;
+}
